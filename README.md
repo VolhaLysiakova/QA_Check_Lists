@@ -1,6 +1,6 @@
 http://itcareer.pythonanywhere.com/
 
-Все чек-листы заавтоматизированы через csv и postman.
+Все чек-листы заавтоматизированы через csv и postman. https://github.com/VolhaLysiakova/QA_Postman/tree/Regform_autotest
 
 Требования: 
 Name: латиница, мин 2, Макс 255, символ тире, апостроф, точка можно,
